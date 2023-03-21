@@ -1,4 +1,6 @@
-<center><h2>🛒eco-cart</h2></center>
+<center>
+<h2>🛒eco-cart</h2>
+</center>
 <h3>Application de comparaison de prix et de création de panier à moindre coup de produits alimentaires</h3>
 
 Ce projet a pour objectif de créer une application destinée aux personnes ayant la capacité d'acheter des produits alimentaires. L'application permettra de récupérer les informations sur un produit souhaité auprès de différents sites de vente en ligne tels que Carrefour ou Cora. Ensuite, une liste de produits sera dressée et affichée par ordre décroissant avec le nom de l'enseigne, permettant ainsi au client de composer son panier en choisissant les produits les moins chers possibles. Le client pourrons alimenter leur panier tout au long de leur parcours.
